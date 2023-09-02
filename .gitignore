@@ -1,0 +1,8 @@
+/obj/*
+/shuffled_images/*
+/images/*
+*.weights
+diablo.weights
+/.ipynb_checkpoints/
+/BKP_COM_LABEL/
+/yolov4-tiny/obj.zip

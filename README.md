@@ -10,17 +10,20 @@ This video will not only walk you through each step of the process but also incl
 
 ### (the video is still being recorded)
 
-## Tutorial Overview
 
-This tutorial is divided into four parts, each covering a step in creating an object detection system:
+## Practical Applications
 
-- **Creating a Dataset**
+With this project, you'll obtain a Python code that can detect objects, providing their coordinates and class in a list format, similar to the example below:
 
-- **Labeling Images**
+```python
+[    
+    {"x": 100, "y": 200, "name": "Slime"},    
+    {"x": 600, "y": 150, "name": "Orc"},    
+    {"x": 350, "y": 400, "name": "Zombie"}
+]
+```
 
-- **Model Training**
-
-- **Object Detection**
+With the data above, you can create your own logic for automating character actions. You can use libraries like [**pynput**](https://pypi.org/project/pynput/) to control your mouse or keyboard based on the detections.
 
 ## Getting Started
 

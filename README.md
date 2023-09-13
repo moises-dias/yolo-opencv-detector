@@ -8,7 +8,8 @@ However, if you'd like a step-by-step video tutorial, please check out the video
 
 This video will not only walk you through each step of the process but also includes a real-time execution using Diablo 2 as an example.
 
-### (the video is still being recorded)
+[![Watch the video](https://img.youtube.com/vi/RSXgyDf2ALo/maxresdefault.jpg)](https://youtu.be/RSXgyDf2ALo)
+
 
 
 ## Practical Applications
@@ -51,10 +52,10 @@ This guide would not be possible without other great tutorials that I used as re
     - In this tutorial, you will learn how to use OpenCV for object detection in images using Template matching. It's a great tutorial, very well explained and I highly recommend watching it and also the channel other playlists to learn more about OpenCV.
 
 2. [**YOLO Object Detection with OpenCV** - PyImageSearch](https://pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
-    - If you want to dive deeper into using YOLO for object detection in images or video streams using Python, I recommend reading his article for more details on this topic.
+    - If you want to dive deeper into using YOLO for object detection in images or video streams using Python, I recommend reading this article for more details on this topic.
 
 3. [**TRAIN A YOLOv4 DETECTOR USING GOOGLE COLAB** - Techzizou](https://medium.com/analytics-vidhya/train-a-custom-yolov4-tiny-object-detector-using-google-colab-b58be08c9593)
-    - On that tutorial, you can find instructions on running the detector in a live video and also obtaining metrics for your trained model performance. If you want more details about the training process, I recommend reading his Medium article.
+    - In this tutorial, you can find instructions on running the detector in a live video and also obtaining metrics for your trained model performance. If you want more details about the training process, I recommend reading his Medium article.
 
 These references served as resources in the creation of this guide, and I extend my gratitude to their creators.
 

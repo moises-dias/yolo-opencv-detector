@@ -2,7 +2,9 @@
 
 Welcome to my Object Detection Using YOLO Tutorial! In this tutorial, 
 you'll learn how to create your own object detection system that can be applied to any game 
-by following a few steps. I've provided detailed instructions in the Jupyter notebooks. 
+by following a few steps. 
+
+I've provided detailed instructions in the Jupyter notebooks. 
 However, if you'd like a step-by-step video tutorial, please check out the video below. 
 
 
@@ -57,7 +59,6 @@ This guide would not be possible without other great tutorials that I used as re
 3. [**TRAIN A YOLOv4 DETECTOR USING GOOGLE COLAB** - Techzizou](https://medium.com/analytics-vidhya/train-a-custom-yolov4-tiny-object-detector-using-google-colab-b58be08c9593)
     - In this tutorial, you can find instructions on running the detector in a live video and also obtaining metrics for your trained model performance. If you want more details about the training process, I recommend reading his Medium article.
 
-These references served as resources in the creation of this guide, and I extend my gratitude to their creators.
 
 
 ## Contact

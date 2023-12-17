@@ -20,9 +20,9 @@ With this project, you'll obtain a Python code that can detect objects, providin
 
 ```python
 [    
-    {"x": 100, "y": 200, "name": "Slime"},    
-    {"x": 600, "y": 150, "name": "Orc"},    
-    {"x": 350, "y": 400, "name": "Zombie"}
+    {"x": 100, "y": 200, "w": 100, "h": 50, "class": "Slime"},    
+    {"x": 600, "y": 150, "w": 90, "h": 110, "class": "Orc"},    
+    {"x": 350, "y": 400, "w": 180, "h": 20, "class": "Zombie"}
 ]
 ```
 

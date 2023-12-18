@@ -28,6 +28,10 @@ With this project, you'll obtain a Python code that can detect objects, providin
 
 With the data above, you can create your own logic for automating character actions. You can use libraries like [**pynput**](https://pypi.org/project/pynput/) to control your mouse or keyboard based on the detections.
 
+In this video below I demonstrate how you can use the model predictions with pynput to automate actions in a game.
+
+[![Watch the video](https://img.youtube.com/vi/gdIVHdRbhOs/maxresdefault.jpg)](https://youtu.be/gdIVHdRbhOs)
+
 ## Getting Started
 
 To get started with this tutorial, follow these steps:
